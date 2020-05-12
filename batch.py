@@ -1,0 +1,6 @@
+#video 22 - could get this to work. Need to research the proper command strucutre for unbuntu. 
+
+
+
+#@py \home\brandon\Desktop\Python_Google\google-python-exercises\run_program.py %*
+@pause
